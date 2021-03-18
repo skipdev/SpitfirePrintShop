@@ -1,0 +1,12 @@
+{
+  "short_name": "Spitfire",
+  "name": "SpitfirePrintShop",
+  "icons": [{
+    "src": "apple-touch-icon.png",
+    "type": "image/png",
+    "sizes": "192x192"
+  }],
+  "start_url": "/?utm_source=homescreen",
+  "background_color": "#03ADEF",
+  "theme_color": "#03ADEF"
+}
